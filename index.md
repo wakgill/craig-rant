@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Craig Wright Email Generator
+
 <textarea style="width: 800px; height; 800px;>
 If you want a war…&#013; &#010; 
 
